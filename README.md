@@ -5,9 +5,9 @@ from udemy js course
 
 ### Screenshot
 
-![screenshot of project](./images/screenshot-1.png)
+![screenshot of project](./image/screenshot-1.png)
 
-![screenshot of project](./images/screenshot-2.png)
+![screenshot of project](./image/screenshot-2.png)
 
 ### Live Site
 
